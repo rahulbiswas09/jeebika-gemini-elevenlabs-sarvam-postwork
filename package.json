@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.13.0",
+    "dotenv": "^17.4.2",
+    "elevenlabs": "^1.59.0",
+    "express": "^5.2.1",
+    "gitignore": "^0.7.0",
+    "node-fetch": "^2.7.0",
+    "ws": "^8.21.1"
+  },
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
